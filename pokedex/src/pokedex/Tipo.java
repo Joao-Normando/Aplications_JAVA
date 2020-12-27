@@ -1,0 +1,8 @@
+package pokedex;
+
+public enum Tipo {
+	NORMAL, LUTADOR, VENENOSO, TERRA, PEDRA, INSETO, 
+	FANTASMA, METAL, FOGO, ÁGUA, GELO, SOMBRIO, 
+	PSÍQUICO, ELÉTRICO, PLANTA, DRAGÃO, FADA;
+
+}
